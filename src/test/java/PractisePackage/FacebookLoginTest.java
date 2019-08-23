@@ -23,6 +23,7 @@ public class FacebookLoginTest
 	public void Loginpage()
 	{
 		System.out.println("hi1");
+		System.out.println("hello");
 		driver.get("https://www.facebook.com");
 		FacebookLoginPage flp=new FacebookLoginPage(driver);
 		flp.provideEmail("9066192188");
