@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-08-20T00:23:31Z" name="Suite" finished-at="2019-08-20T00:23:31Z" duration-ms="104">
+    <groups>
+    </groups>
+    <test started-at="2019-08-20T00:23:31Z" name="Test" finished-at="2019-08-20T00:23:31Z" duration-ms="104">
+      <class name="PractisePackage.TestngPractiseTwo">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:PractisePackage.TestngPractiseTwo@6aaceffd]" started-at="2019-08-20T00:23:31Z" name="beforeMethod" finished-at="2019-08-20T00:23:31Z" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="fun22()[pri:2, instance:PractisePackage.TestngPractiseTwo@6aaceffd]" started-at="2019-08-20T00:23:31Z" name="fun22" finished-at="2019-08-20T00:23:31Z" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun22 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:PractisePackage.TestngPractiseTwo@6aaceffd]" started-at="2019-08-20T00:23:31Z" name="afterMethod" finished-at="2019-08-20T00:23:31Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- PractisePackage.TestngPractiseTwo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
